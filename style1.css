@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.line{
+    background-color: #4d4d4d;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aliceblue;
+  }
+
+  .container{
+    background-color: rgb(141, 154, 146);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-self: start;
+   
+  }
+  
+  .box1{
+    width: 300px;
+    height: 500px;
+    background-color:rgb(46, 44, 43);
+    margin-left: 100px;
+    margin-top: 6pc;
+    border-radius: 12px;
+  }
+  .box2{
+    width: 600px;
+    height: 50px;
+    background-color:rgb(46, 44, 43);
+    border-radius: 12px;
+    margin-top: 6pc;
+    margin-left: 200px;
+  }
+  .box3{
+    width: 50px;
+    height: 150px;
+    background-color:rgb(46, 44, 43);
+    border-radius: 12px;
+    padding-right: 200px;
+    justify-content: center; 
+  }
